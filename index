@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Antonios Motorrad HUB</title>
+  <style>
+    /* CSS-Stile hier einfügen */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #555;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+
+    section {
+      margin: 20px;
+    }
+
+    footer {
+      background-color: #555;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Antonios Motorrad HUB</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Startseite</a>
+    <a href="services.html">Unsere Leistungen</a>
+    <a href="contact.html">Kontakt</a>
+  </nav>
+
+  <section id="home">
+    <h2>Willkommen bei Antonios Motorrad HUB</h2>
+    <p>Willkommen bei Antonios Motorrad HUB, Ihrem Experten für Motorradverkauf, -wartung, -reparatur und -anpassung. Wir bieten eine Vielzahl von Dienstleistungen rund um Motorräder an, um sicherzustellen, dass Sie das Beste aus Ihrem Fahrerlebnis herausholen können.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Antonios Motorrad HUB. Alle Rechte vorbehalten.</p>
+  </footer>
+</body>
+</html>
